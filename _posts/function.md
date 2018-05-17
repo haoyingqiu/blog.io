@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Python常用函数
+title: Python 
 date: 2018-5-07
 categories: blog
-tags: 
-description: 
+tags: [标签一,标签二]
+description: Python 
 ---
 isinstance：
 例：
