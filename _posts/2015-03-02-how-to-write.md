@@ -9,7 +9,7 @@ description: Python中extend()和append()的区别
 
 extend()和append()都传一个参数进去
 
-但就效果而言
+但就效果而言，
 
 extend()相当于传了多个参数进去
 
