@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Python常用函数
+title: Python常用BIF
 date: 2018-5-07
 categories: blog
-tags: [标签一,标签二]
+tags: 
 description: Python 
 ---
 isinstance：判断变量类型函数
