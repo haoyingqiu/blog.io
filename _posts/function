@@ -1,0 +1,13 @@
+---
+layout: post
+title: Python常用函数
+date: 2018-5-07
+categories: blog
+tags: 
+description: 
+---
+isinstance：
+例：
+i=20
+instance(i,int)
+返回值为true or false
